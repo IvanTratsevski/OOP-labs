@@ -1,0 +1,12 @@
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\bin\Debug\net6.0\CountryDefinerLib.deps.json
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\bin\Debug\net6.0\CountryDefinerLib.dll
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\bin\Debug\net6.0\CountryDefinerLib.pdb
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\obj\Debug\net6.0\CountryDefinerLib.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\obj\Debug\net6.0\CountryDefinerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\obj\Debug\net6.0\CountryDefinerLib.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\obj\Debug\net6.0\CountryDefinerLib.AssemblyInfo.cs
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\obj\Debug\net6.0\CountryDefinerLib.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\obj\Debug\net6.0\CountryDefinerLib.dll
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\obj\Debug\net6.0\refint\CountryDefinerLib.dll
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\obj\Debug\net6.0\CountryDefinerLib.pdb
+D:\УНИВЕР КОМП\ООП\lab5\CountryDefinerLib\obj\Debug\net6.0\ref\CountryDefinerLib.dll
