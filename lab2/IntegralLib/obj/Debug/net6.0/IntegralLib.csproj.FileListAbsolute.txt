@@ -1,0 +1,24 @@
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\bin\Debug\net6.0\IntegralLib.deps.json
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\bin\Debug\net6.0\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\bin\Debug\net6.0\IntegralLib.pdb
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.csproj.AssemblyReference.cache
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.AssemblyInfoInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.AssemblyInfo.cs
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.csproj.CoreCompileInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\refint\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.pdb
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\ref\IntegralLib.dll
+F:\ООП\lab2\IntegralLib\bin\Debug\net6.0\IntegralLib.deps.json
+F:\ООП\lab2\IntegralLib\bin\Debug\net6.0\IntegralLib.dll
+F:\ООП\lab2\IntegralLib\bin\Debug\net6.0\IntegralLib.pdb
+F:\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.csproj.AssemblyReference.cache
+F:\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.AssemblyInfoInputs.cache
+F:\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.AssemblyInfo.cs
+F:\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.csproj.CoreCompileInputs.cache
+F:\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.dll
+F:\ООП\lab2\IntegralLib\obj\Debug\net6.0\refint\IntegralLib.dll
+F:\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.pdb
+F:\ООП\lab2\IntegralLib\obj\Debug\net6.0\ref\IntegralLib.dll

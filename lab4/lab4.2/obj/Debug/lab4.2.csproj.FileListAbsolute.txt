@@ -1,0 +1,16 @@
+D:\2COURSE\ООП\lab4.2\bin\Debug\lab4.2.exe.config
+D:\2COURSE\ООП\lab4.2\bin\Debug\lab4.2.exe
+D:\2COURSE\ООП\lab4.2\bin\Debug\lab4.2.pdb
+D:\2COURSE\ООП\lab4.2\obj\Debug\lab4.2.csproj.AssemblyReference.cache
+D:\2COURSE\ООП\lab4.2\obj\Debug\lab4.2.csproj.SuggestedBindingRedirects.cache
+D:\2COURSE\ООП\lab4.2\obj\Debug\lab4.2.csproj.CoreCompileInputs.cache
+D:\2COURSE\ООП\lab4.2\obj\Debug\lab4.2.exe
+D:\2COURSE\ООП\lab4.2\obj\Debug\lab4.2.pdb
+F:\lab4.2\obj\Debug\lab4.2.csproj.AssemblyReference.cache
+F:\lab4.2\obj\Debug\lab4.2.csproj.SuggestedBindingRedirects.cache
+F:\lab4.2\obj\Debug\lab4.2.csproj.CoreCompileInputs.cache
+F:\lab4.2\obj\Debug\lab4.2.exe
+F:\lab4.2\obj\Debug\lab4.2.pdb
+F:\lab4.2\bin\Debug\lab4.2.exe.config
+F:\lab4.2\bin\Debug\lab4.2.exe
+F:\lab4.2\bin\Debug\lab4.2.pdb
